@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Kleren-Fashion-store-web/static/css/main.43883555.css",
+    "main.js": "/Kleren-Fashion-store-web/static/js/main.2ac89dac.js",
+    "static/media/album2.jpg": "/Kleren-Fashion-store-web/static/media/album2.f84d26f01126ab973f53.jpg",
+    "static/media/ban.jpg": "/Kleren-Fashion-store-web/static/media/ban.0420450a7761112dbe0f.jpg",
+    "static/media/album3.jpg": "/Kleren-Fashion-store-web/static/media/album3.80a96fe3dceca2cb5530.jpg",
+    "static/media/album.jpg": "/Kleren-Fashion-store-web/static/media/album.cf4d5a0e5080e4bff5bc.jpg",
+    "static/media/album4.jpg": "/Kleren-Fashion-store-web/static/media/album4.dff32a962893cdb49caf.jpg",
+    "static/media/album5.jpg": "/Kleren-Fashion-store-web/static/media/album5.860c35ce68c6f11e75dc.jpg",
+    "static/media/wall.jpg": "/Kleren-Fashion-store-web/static/media/wall.21bbf57af1dc306048d3.jpg",
+    "static/media/cart3.png": "/Kleren-Fashion-store-web/static/media/cart3.7e97cb0475f7b32e2fa7.png",
+    "static/media/cart2.jpg": "/Kleren-Fashion-store-web/static/media/cart2.1f05f01c6b72693b48ab.jpg",
+    "static/media/cart1.jpeg": "/Kleren-Fashion-store-web/static/media/cart1.6023fa45c39232963d9d.jpeg",
+    "static/media/cart4.jpeg": "/Kleren-Fashion-store-web/static/media/cart4.3aa9463034e2a1f1158f.jpeg",
+    "static/media/cart6.jpeg": "/Kleren-Fashion-store-web/static/media/cart6.bd5c49e2ca640f950bae.jpeg",
+    "static/media/cart5.jpeg": "/Kleren-Fashion-store-web/static/media/cart5.8ab56445ba17f9b6ccef.jpeg",
+    "static/media/cart7.jpg": "/Kleren-Fashion-store-web/static/media/cart7.a2223f8d942f0ed5457b.jpg",
+    "static/media/cart8.jpeg": "/Kleren-Fashion-store-web/static/media/cart8.8a4d8930dd5c6c123f09.jpeg",
+    "index.html": "/Kleren-Fashion-store-web/index.html",
+    "main.43883555.css.map": "/Kleren-Fashion-store-web/static/css/main.43883555.css.map",
+    "main.2ac89dac.js.map": "/Kleren-Fashion-store-web/static/js/main.2ac89dac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43883555.css",
+    "static/js/main.2ac89dac.js"
+  ]
+}
