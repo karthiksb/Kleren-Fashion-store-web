@@ -1,4 +1,4 @@
-<i>live on <i>
+<i>live on <i> :hugs:	
   
   https://karthiksb.github.io/Kleren-Fashion-store-web/
 
