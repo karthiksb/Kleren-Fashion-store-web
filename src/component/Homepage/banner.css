@@ -1,0 +1,42 @@
+.banner {
+  background: #f8b0bd;
+  display: flex;
+}
+.quote {
+  width: 50%;
+  padding: 0 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.quote h1:nth-child(1) {
+  color: rgb(39, 38, 38);
+}
+.quote h1:nth-child(2) {
+  font-size: 50px;
+  padding: 10px 0;
+  color: rgb(31, 30, 30);
+}
+.quote button {
+  width: 100px;
+  height: 40px;
+  transition: transform 0.2s;
+  margin: 0 3px;
+  border-style: none;
+  border-radius: 5px;
+}
+.quote button:hover {
+  transform: scale(1.1);
+}
+.model {
+  width: 50%;
+}
+.model img {
+  width: 100%;
+  height: 100%;
+}
+@media screen and (min-width: 1255px) {
+  .banner {
+    padding: 0 320px;
+  }
+}

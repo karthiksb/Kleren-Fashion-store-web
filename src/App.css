@@ -1,0 +1,9 @@
+.App {
+  display: grid;
+  grid-template-rows: 8vh auto;
+}
+
+@media screen and (min-width: 1215px) {
+  .App {
+  }
+}

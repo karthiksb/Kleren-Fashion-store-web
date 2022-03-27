@@ -1,0 +1,28 @@
+.explore {
+  background: violet;
+  position: relative;
+}
+.explore .top {
+  width: 100%;
+  height: 100%;
+  background: #f8adb1;
+}
+
+h1 span {
+  color: red;
+}
+
+.explore .overlay {
+  position: absolute;
+  top: 0%;
+  height: 100%;
+  background: #fcbdc08c;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.overlay > div {
+  padding: 10px 0;
+}

@@ -1,0 +1,73 @@
+.arrivals {
+  height: 100%;
+}
+.arrive {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.arrive h1 {
+  margin-bottom: 10px;
+}
+.latest {
+  height: 100%;
+}
+.roww {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 25% 25% 25% 25%;
+  width: 100%;
+  grid-gap: 5px;
+}
+.col {
+  display: flex;
+  justify-content: center;
+  transition: transform 0.1s;
+  width: auto;
+  margin: 20px;
+  height: 340px;
+  background-color: white;
+  border-radius: 10px;
+
+  background: #ffffff;
+  box-shadow: 7px 7px 17px #bdbdbd, -7px -7px 17px #ffffff;
+}
+.col:hover {
+  transform: scale(1.1);
+}
+
+.product:hover {
+  transform: scale(1.1);
+}
+.col .cartoverlay {
+  margin-top: 20px;
+  background: gray;
+  border-radius: 10px;
+  width: 80%;
+  height: 70%;
+}
+.col img {
+  width: 100%;
+  border-radius: 10px;
+  height: 100%;
+}
+.brand {
+  color: rgb(92, 92, 92);
+}
+.information {
+  display: flex;
+  justify-content: space-between;
+}
+.information .cart {
+  align-items: flex-end;
+  display: flex;
+}
+
+@media screen and (min-width: 1255px) {
+  .arrivals {
+    padding: 0 320px;
+  }
+}

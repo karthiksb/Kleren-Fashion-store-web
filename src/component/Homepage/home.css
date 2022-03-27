@@ -1,0 +1,4 @@
+.home {
+  display: grid;
+  grid-template-rows: 45vh 55vh 30vh 105vh 80vh;
+}

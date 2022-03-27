@@ -1,0 +1,111 @@
+.offers {
+}
+.top {
+  height: 40vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  grid-column-gap: 40px;
+}
+.top-left {
+  background-size: cover;
+  position: relative;
+}
+
+.top-left img {
+  width: 100%;
+
+  height: 375px;
+}
+
+.top-left .deal1 {
+  display: flex;
+  height: 70%;
+  padding: 0 20px;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  top: 10%;
+}
+.top-left .deal1 > div {
+  padding: 5px 0;
+}
+.top-left .deal1 > div .p1 {
+  color: #fff;
+  font-size: 25px;
+}
+.top-left .deal1 > div h1 {
+  color: #fff;
+}
+.top-left .deal1 > div p {
+  color: #fff;
+}
+
+.top-right {
+  position: relative;
+}
+.deal2 {
+  display: flex;
+  height: 70%;
+  padding: 0 20px;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  top: 10%;
+}
+.top-right .deal2 > div {
+  padding: 5px 0;
+}
+
+.top-right .deal2 > div h1 {
+  color: #fff;
+}
+.top-right .deal2 > div .p1 {
+  color: #fff;
+  font-size: 25px;
+}
+.top-right .deal2 > div p {
+  color: #fff;
+}
+.top-right img {
+  width: 100%;
+
+  height: 375px;
+}
+
+.bottom {
+  height: auto;
+}
+.bottom-cards {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.bottom-card {
+  position: relative;
+  width: 360px;
+  height: 300px;
+  background: #ffff;
+}
+.bottom-card img {
+  width: 100%;
+  height: 100%;
+}
+.blackoverlay {
+  position: absolute;
+  top: 0%;
+  width: 320px;
+  height: 100%;
+  background: rgba(29, 28, 28, 0.377);
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
+.blackoverlay h1 {
+  color: #fff;
+}
+@media screen and (min-width: 1255px) {
+  .offers {
+    padding: 0 320px;
+  }
+}
